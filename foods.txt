@@ -1,0 +1,26 @@
+B|apple|Apple (medium)|fruit,apple|95
+C|pbj_sandwich|PB&J Sandwich|peanut butter,jelly,sandwich,lunch|pb_sandwich:1,jelly:1
+B|eggs|Eggs (1 large)|eggs,protein|70
+B|orange|Orange (medium)|fruit,citrus,orange|65
+B|soda|Soda (12 oz can)|sugar,drink,soda|150
+B|beef_ground|Ground Beef 85% (4 oz)|meat,protein,beef|240
+B|banana|Banana (medium)|fruit,banana|105
+B|spinach|Spinach (1 cup)|leafy,spinach,vegetable,veggie|7
+C|pb_sandwich|Peanut Butter Sandwich|lunch,peanut butter,sandwich|bread_wheat:2,peanut_butter:1
+B|milk_whole|Whole Milk (1 cup)|drink,dairy,milk|150
+B|bread_wheat|Wheat Bread (1 slice)|wheat,grain,bread|80
+B|chicken_breast|Chicken Breast (4 oz)|meat,protein,chicken|170
+B|jelly|Grape Jelly (1 tbsp)|jelly,spread,grape|50
+B|broccoli|Broccoli (1 cup)|broccoli,veggie,vegetable|55
+B|peanut_butter|Peanut Butter (2 tbsp)|spread,peanut,butter|190
+B|cheese_cheddar|Cheddar Cheese (1 oz)|cheese,dairy,cheddar|110
+B|olive_oil|Olive Oil (1 tbsp)|fat,oil|120
+B|milk_skim|Skim Milk (1 cup)|skim,milk,dairy,drink|90
+B|yogurt_plain|Plain Yogurt (1 cup)|yogurt,dairy|120
+B|pasta|Pasta (1 cup cooked)|pasta,grain|220
+B|carrot|Carrot (medium)|veggie,carrot,vegetable|25
+B|strawberries|Strawberries (1 cup)|fruit,berries,strawberry|50
+B|rice_white|White Rice (1 cup cooked)|grain,rice,white|200
+B|tuna|Tuna (1 can)|tuna,fish,protein|180
+B|oatmeal|Oatmeal (1 cup cooked)|grain,breakfast,oatmeal|160
+B|potato|Potato (medium)|starchy,vegetable,potato|110
