@@ -1,8 +1,32 @@
-# YADA (Yet Another Diet Assistant)
+# 🍽️ YADA - Yet Another Diet Assistant
+
+![Waketime](https://img.shields.io/badge/Waketime-68%20hrs%2035%20mins-blueviolet?style=flat&labelColor=black&logo=clock&logoColor=white)
 
 ## Overview
 
 YADA is a comprehensive command-line diet and nutrition tracking application written in Rust. Designed with software engineering best practices in mind, it employs multiple design patterns to ensure code maintainability, extensibility, and reusability. The application offers users a robust way to monitor their food intake, track calorie consumption, and analyze dietary patterns against personalized calorie targets.
+
+## 👤 Project Information
+
+**Authors**: 
+- Inesh Dheer (2023111010)
+- Shreyas Mehta (2023101059)
+
+**Year**: 2025
+**Course**: Design and Analysis of Software Systems (DASS)  
+**Institution**: IIIT Hyderabad  
+
+## 📋 Table of Contents
+
+1. [📖 Overview](#overview)
+2. [👤 Project Information](#-project-information)
+3. [🎯 Key Features](#-key-features)
+4. [🏗️ Software Architecture](#️-software-architecture)
+5. [📁 Project Structure](#-project-structure)
+6. [🚀 Installation and Setup](#-installation-and-setup)
+7. [📖 Usage Guide](#-usage-guide)
+8. [Troubleshooting](#troubleshooting)
+9. [Contributing](#contributing)
 
 ## 🎯 Key Features
 
